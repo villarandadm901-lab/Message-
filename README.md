@@ -1,6 +1,3 @@
-# Message-
-<!DOCTYPE html>
-<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -37,7 +34,7 @@ Thank you for caring for me so much. I truly appreciate all the time, love, and 
 </p>
 
 <br>
-<a href="valentine.html">← Go back</a>
+<a src="https://villarandadm901-lab.github.io/ILOVEYOU/">← Go back</a>
 
 </div>
 
