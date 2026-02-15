@@ -30,7 +30,9 @@ a{
 <div class="box">
 <h1>I Love You ❤️</h1>
 <p>
-Thank you for caring for me so much. I truly appreciate all the time, love, and effort you give to me every day. You make me feel special, safe, and loved in ways I never imagined. This small love letter is just a simple way to show how much you mean to me. I am grateful to have you in my life, and I will always cherish and love you with all my heart. ❤️💕
+From the moment I met you, my world has been brighter. Every smile, every laugh, every little thing you do fills my heart with joy. Thank you for caring for me so deeply — your love, your attention, and your thoughtfulness mean more to me than words can ever say.
+I want you to know how grateful I am for every moment we share. Your kindness, your warmth, and your beautiful soul inspire me to be the best version of myself. I promise to always care for you, to support you, and to make you smile every single day.
+You are my everything, my heart, my home. I love you more than words can express, and I will love you forever. ❤️
 </p>
 
 <br>
@@ -39,4 +41,4 @@ Thank you for caring for me so much. I truly appreciate all the time, love, and 
 </div>
 
 </body>
-</html>
+
